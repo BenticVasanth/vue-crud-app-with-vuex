@@ -6,7 +6,7 @@ A Single Page Contact List application using VueJS , VueRouter & VueX
 
 ## Demo Link
 
-[See Demo by Click on this](https://6081d8436bd08800e5c3aaa6--infallible-ardinghelli-4e3b7e.netlify.app/#/contact-list)
+[See Demo by Click on this](https://mesoftwaretech-vuex.netlify.app/#/contact-list)
 
 Here you can see the screenshot
 
@@ -31,8 +31,8 @@ Here you can see the screenshot
 ## Project setup
 
 ```bash
-git clone https://github.com/mdrathik/vuejs-vuex-crud
-cd vuejs-vuex-crud
+git clone https://github.com/BenticVasanth/vue-crud-app-with-vuex.git
+cd vue-crud-app-with-vuex
 ```
 
 ```bash
